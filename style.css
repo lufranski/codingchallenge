@@ -1,0 +1,92 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+}
+
+body{
+  background-image: url("background.jpg");
+  background-size: cover;
+}
+
+.riquadro{
+  width: 60%;
+  height: 800px;
+  background-color: rgba(0, 0, 0, 0.5);
+  margin: 1% 20% 20%;
+  border-radius: 15px;
+}
+
+header{
+  display: block;
+  width:100%;
+  height:33%;
+  color: #02d914;
+  text-align: center;
+  margin: auto;
+  padding-top: 10%;
+}
+
+header>img{
+  width: 20%;
+}
+
+.prenotazione{
+  width:833px;
+  height: 35px;
+  margin: auto;
+  background-color: #02d914;
+}
+
+#pulsanti{
+  width: 800px;
+  height: 20px;
+  margin: auto;
+  padding-top: 8px;
+  padding-left: 230px;
+}
+
+main>div{
+  color: white;
+}
+
+.monopattino{
+  display: inline-block;
+}
+
+.indirizzo:before{
+  content: "\21A6";
+}
+
+main{
+  padding-left: 10%;
+  margin-top: 2.5%;
+  height: 70%;
+}
+
+.Gino22>hr{
+  width: 30%;
+  border: 10px solid #fa9e25;
+  border-radius: 5px;
+}
+
+.Mike24>hr{
+  width: 50%;
+  border: 10px solid #02b511;
+  border-radius: 5px;
+}
+
+.Fede154>hr{
+  width:15%;
+  border: 10px solid #b33620;
+  border-radius: 5px;
+}
+
+.Mike24{
+  margin-top: 2.5%;
+}
+
+.Fede154{
+  margin-top: 2.5%;
+  margin-bottom: 10%;
+}
